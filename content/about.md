@@ -19,9 +19,10 @@ Want to chat? Feel free to [email](mailto:ankeshbharti8@gmail.com "email") me, o
 
 #### Follow
 
-<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/shermisaurus?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @shermisaurus</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="github-button" href="https://github.com/shermisaurus" data-size="large" data-show-count="true" aria-label="Follow @shermisaurus on GitHub">Follow @shermisaurus</a>
+
+<a class="github-button" href="https://github.com/shermisaurus" data-show-count="true" aria-label="Follow @shermisaurus on GitHub">Follow @shermisaurus</a>
 
 
 #### Donations
@@ -42,3 +43,6 @@ If you like my work or want me to grab a slice of pizza.
 <a href="https://securegw.paytm.in/link/19495/LL_5816047" target="_blank" rel="im-checkout" style="border-radius:2px;display:inline-block;border:1px solid #e6ebf3;padding:0 23px;color:#182233;font-size:12px;text-decoration:none;font-family:'Nunito Sans', sans-serif;height:32px;line-height:28px;background:#ffffff;border:1px solid #e8edf4;color:#182233;">
 <span>Donate  with</span>
 <img style="margin-left:6px;vertical-align:sub;width:50px;" src="https://static1.paytm.in/1.4/plogo/paytmlogo-coloured.png"></a>
+
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
