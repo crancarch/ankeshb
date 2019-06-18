@@ -24,5 +24,6 @@ fields:
   config:
     required: true
 pages:
+- content/resume.md
 - content/about.md
 - content/projects.md
