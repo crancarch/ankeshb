@@ -17,9 +17,9 @@ sections:
   - label: Contact Me
     url: contact.html
   component: content_block.html
-  content: 'Fine, I’ll admit it: I’m Ankesh Bharti. I identify myself as one heck
-    of a tech nerd who absolutely loves web-technologies, FOSS among many other _cool_  things.
-    **_:x_**'
+  content: A sophomore year engineering undergrad pursuing IT at Jaypee Institute
+    of Information Technology, Delhi-NCR, India. Loves and likes to share thoughts
+    on tech, open source, books, movies and TV-series.
   image: ''
 - type: postsblock
   template: postsblock
