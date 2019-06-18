@@ -37,9 +37,6 @@ fields:
   config:
     required: true
 pages:
-- content/posts/2018-01-23-the-ride-in-the-woods.md
-- content/posts/2018-01-15-best-waves-surfing-spain.md
-- content/posts/2018-01-11-fox-village-in-japan.md
 - content/posts/2018-01-09-basic-rules-for-walking-in-the-mountains.md
 - content/posts/2017-03-26-interior-designer.md
 - content/posts/2016-08-22-working-from-home.md
