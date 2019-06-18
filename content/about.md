@@ -17,7 +17,12 @@ I identify myself as one heck of a tech nerd who likes web-technologies, F/OSS a
 
 Want to chat? Feel free to [email](mailto:ankeshbharti8@gmail.com "email") me, or if you have a question that other people might be interested in as well, open a GitHub issue on [shermisaurus/ama](https://github.com/shermisaurus/ama "ama") so that others can read it, too.
 
-Thank You for reading!
+#### Follow
+
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="github-button" href="https://github.com/shermisaurus" data-size="large" data-show-count="true" aria-label="Follow @shermisaurus on GitHub">Follow @shermisaurus</a>
+
 
 #### Donations
 
@@ -31,7 +36,6 @@ If you like my work or want me to grab a slice of pizza.
 <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_IN/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
 
 ###### PayTM
 
