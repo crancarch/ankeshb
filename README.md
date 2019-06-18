@@ -8,7 +8,7 @@ This site is based on [JAMStack](https://jamstack.org/ "JAMStack") and was gener
 
 * Static Site Generator :  [Hugo](https://gohugo.io/)
 * CMS : [Forestry](https://forestry.io/)
-* Serverless Backend : [Netlify](https://www.netlify.com/)
+* Deployment : [Netlify](https://www.netlify.com/)
 * Hosting : [Github](https://github.com/)
 * Analytics : [Google Analytics](https://analytics.google.com)
 
