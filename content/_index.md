@@ -14,7 +14,7 @@ sections:
   title: About TL;DR
   section_id: about
   actions:
-  - label: Read More...
+  - label: Read More
     url: about.html
   component: content_block.html
   content: A sophomore year engineering undergrad pursuing IT at Jaypee Institute
