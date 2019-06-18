@@ -2,8 +2,8 @@
 title: Stackbit Fresh Theme
 baseURL: "/"
 params:
-  layout_style: default
-  palette: green
+  layout_style: overflow
+  palette: violet
   header:
     title: Stackbit Fresh
     tagline: Header Tagline
@@ -12,10 +12,10 @@ params:
     has_nav: true
     has_social: true
   footer:
-    content: "&copy; Stackbit-Fresh. All rights reserved."
+    content: "&copy; Ankesh Bharti. All rights reserved."
     links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
+    - text: "Made with \U0001F496 in India"
+      url: https://en.gravatar.com/shermisaurus
       new_window: true
 disableKinds:
 - RSS
