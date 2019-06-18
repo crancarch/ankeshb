@@ -2,9 +2,6 @@
 title: Contact
 layout: posts
 subtitle: ''
-menu:
-  main:
-    weight: 5
 
 ---
 You can find me on [Github](https://github.com/shermisaurus "GitHub"), [Twitter](https://twitter.com/shermisaurus "Twitter"), [Reddit](https://www.reddit.com/user/ankeshb8 "Reddit") and [LinkedIn](https://www.linkedin.com/in/ankesh-bharti-734584162/ "LinkedIn").
