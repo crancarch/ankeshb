@@ -17,14 +17,9 @@ sections:
   - label: Read More
     url: about.html
   component: content_block.html
-  content: |-
-    <a href="[https://twitter.com/shermisaurus?ref_src=twsrc%5Etfw](https://twitter.com/shermisaurus?ref_src=twsrc%5Etfw "https://twitter.com/shermisaurus?ref_src=twsrc%5Etfw")" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @shermisaurus</a><script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
-
-    <a class="github-button" href="[https://github.com/shermisaurus](https://github.com/shermisaurus "https://github.com/shermisaurus")" data-show-count="true" aria-label="Follow @shermisaurus on GitHub">Follow @shermisaurus</a>
-
-    A sophomore year engineering undergrad pursuing IT at Jaypee Institute of Information Technology, Delhi-NCR, India. Loves and likes to share thoughts on tech, open source, books, movies and TV-series.
-
-    <script async defer src="[https://buttons.github.io/buttons.js](https://buttons.github.io/buttons.js "https://buttons.github.io/buttons.js")"></script>
+  content: A sophomore year engineering undergrad pursuing IT at Jaypee Institute
+    of Information Technology, Delhi-NCR, India. Loves and likes to share thoughts
+    on tech, open source, books, movies and TV-series.
   image: ''
 - type: postsblock
   template: postsblock
