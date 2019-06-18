@@ -5,8 +5,8 @@ params:
   layout_style: overflow
   palette: violet
   header:
-    title: Stackbit Fresh
-    tagline: Header Tagline
+    title: Ankesh Bharti
+    tagline: "@shermisaurus"
     profile_img: "/images/41825871.jpeg"
     bg: light
     has_nav: true
