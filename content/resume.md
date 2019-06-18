@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = "Ankesh Bharti's Resume"
 title = "Resume"
+[menu.main]
+weight = 5
 
 +++
 <object data='https://uc5f2b27e78e719c7fdc4543d7fd.dl.dropboxusercontent.com/cd/0/get/AjHb354hm8ZUeEhaw04pgnLsJ3JjmIttyOGoEFFBRZLa678AgS2TMgXZpjxTFNDYYpOZxiaf1AgPM6qbSFsd-k4AB1rYEK1Pq6Fkd9fyRMGYdg/file?dl=1#' 

@@ -16,4 +16,3 @@ A buy-sell rental CLI application written in C as a group project of 4 during fr
 ## [thinkful-projects](https://github.com/shermisaurus/thinkful-projects "Thinkful Projects")
 
 The challenges and capstone projects made for submission to mentors during the time period of 2 weeks for the github student free beginner web development course courtesy of collaboration of Github and Thinkful.
-
