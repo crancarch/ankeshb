@@ -31,5 +31,5 @@ If you like my work or want me to grab a slice of pizza.
 </form>
 
 <a href="https://securegw.paytm.in/link/19495/LL_5816047" target="_blank" rel="im-checkout" style="border-radius:2px;display:inline-block;border:1px solid #e6ebf3;padding:0 23px;color:#182233;font-size:12px;text-decoration:none;font-family:'Nunito Sans', sans-serif;height:32px;line-height:28px;background:#ffffff;border:1px solid #e8edf4;color:#182233;">
-        <span>Donate  with</span>
-            <img style="margin-left:6px;vertical-align:sub;width:50px;" src="https://static1.paytm.in/1.4/plogo/paytmlogo-coloured.png"></a>
+<span>Donate  with</span>
+<img style="margin-left:6px;vertical-align:sub;width:50px;" src="https://static1.paytm.in/1.4/plogo/paytmlogo-coloured.png"></a>
