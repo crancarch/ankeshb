@@ -14,8 +14,8 @@ params:
   footer:
     content: "&copy; Ankesh Bharti 2018-2019. All rights reserved."
     links:
-    - text: "Made with \U0001F496 in India"
-      url: https://en.gravatar.com/shermisaurus
+    - text: "| Made with \U0001F496 in India"
+      url: https://madewithlove.org.in/
       new_window: true
 disableKinds:
 - RSS
