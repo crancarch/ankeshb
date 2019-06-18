@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: ''
+layout: posts
 subtitle: ''
 menu:
   main:
