@@ -1,8 +1,9 @@
+---
 title: Stackbit Fresh Theme
-baseURL: /
+baseURL: "/"
 params:
-  layout_style: overflow
-  palette: blue
+  layout_style: default
+  palette: green
   header:
     title: Stackbit Fresh
     tagline: Header Tagline
@@ -11,10 +12,10 @@ params:
     has_nav: true
     has_social: true
   footer:
-    content: '&copy; Stackbit-Fresh. All rights reserved.'
+    content: "&copy; Stackbit-Fresh. All rights reserved."
     links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+    - text: Made with Stackbit
+      url: https://www.stackbit.com
+      new_window: true
 disableKinds:
-  - RSS
+- RSS
