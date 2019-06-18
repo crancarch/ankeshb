@@ -11,11 +11,11 @@ sections:
   actions: []
 - type: contentblock
   template: contentblock
-  title: About
+  title: About TL;DR
   section_id: about
   actions:
-  - label: Contact Me
-    url: contact.html
+  - label: Read More...
+    url: about.html
   component: content_block.html
   content: A sophomore year engineering undergrad pursuing IT at Jaypee Institute
     of Information Technology, Delhi-NCR, India. Loves and likes to share thoughts
