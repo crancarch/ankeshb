@@ -12,9 +12,9 @@ params:
     has_nav: true
     has_social: true
   footer:
-    content: "&copy; Ankesh Bharti 2018-2019. All rights reserved."
+    content: "&copy; Ankesh Bharti 2018-2019. All rights reserved. |"
     links:
-    - text: "| Made with \U0001F496 in India"
+    - text: "Made with \U0001F496 in India"
       url: https://madewithlove.org.in/
       new_window: true
 disableKinds:
