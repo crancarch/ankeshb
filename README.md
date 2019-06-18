@@ -10,6 +10,7 @@ This site is based on [JAMStack](https://jamstack.org/ "JAMStack") and was gener
 * CMS : [Forestry](https://forestry.io/)
 * Serverless Backend : [Netlify](https://www.netlify.com/)
 * Hosting : [Github](https://github.com/)
+* Analytics : [Google Analytics](https://analytics.google.com)
 
 # Running The Site Locally
 
