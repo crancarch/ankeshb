@@ -1,7 +1,7 @@
 +++
 content_img_path = ""
 date = "2019-06-18T11:30:00+00:00"
-excerpt = ""
+excerpt = "Source code for this site."
 layout = "post"
 subtitle = "Source code for this site."
 thumb_img_path = ""
