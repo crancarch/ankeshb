@@ -15,9 +15,9 @@ fields:
 - type: text
   name: layout
   label: Layout
-  hidden: true
-  default: contact
+  hidden: false
+  default: ''
   config:
-    required: true
+    required: false
 pages:
 - content/contact.md
