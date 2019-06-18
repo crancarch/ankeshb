@@ -3,9 +3,9 @@ content_img_path = ""
 date = "2019-06-18T11:30:00+00:00"
 excerpt = "Source code for this site."
 layout = "post"
-subtitle = "Source code for this site."
+subtitle = "Tools used and services."
 thumb_img_path = ""
-title = "Site's Source"
+title = "Some words on this weblog's build."
 
 +++
 This site code's hosted at [https://github.com/shermisaurus/ankeshb](https://github.com/shermisaurus/ankeshb "https://github.com/shermisaurus/ankeshb") and is open to fork for anyone who wishes to use the same.
