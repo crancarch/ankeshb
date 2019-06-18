@@ -12,10 +12,6 @@ fields:
   name: subtitle
   label: Subtitle
   description: The text shown just below the page title.
-- type: file
-  name: img_path
-  label: Image
-  description: The image shown below the page title and subtitle.
 - type: text
   name: layout
   label: Layout
