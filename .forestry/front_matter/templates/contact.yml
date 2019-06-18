@@ -16,7 +16,7 @@ fields:
   name: layout
   label: Layout
   hidden: false
-  default: ''
+  default: page
   config:
     required: false
 pages:
