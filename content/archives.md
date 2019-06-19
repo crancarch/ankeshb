@@ -12,4 +12,4 @@ weight = 6
 
 ### January
 
-#### 
+##### 2019's NY Resolutions as an inspiring dev ...
