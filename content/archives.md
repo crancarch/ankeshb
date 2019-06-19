@@ -1,8 +1,8 @@
 +++
 draft = true
-img_path = ""
+img_path = "/images/1*w5ZcN3jLoOH0WlSNKFsJlQ.png"
 layout = "page"
-subtitle = "Posts and other behind the scenes unpublished posts sorted by year."
+subtitle = "Reading digests, posts other behind the scenes unpublished posts sorted by year."
 title = "Archives"
 [menu.main]
 weight = 6
