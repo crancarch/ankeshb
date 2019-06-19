@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ca76ecc-7960-40d8-b56e-39430a89ebc6/deploy-status)](https://app.netlify.com/sites/ankeshb/deploys)
+
 # Ankesh Bharti's Weblog
 
 This site acts as personal blog space for me.
