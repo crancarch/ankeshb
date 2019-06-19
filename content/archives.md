@@ -1,7 +1,7 @@
 +++
 img_path = "/images/1*w5ZcN3jLoOH0WlSNKFsJlQ.png"
 layout = "page"
-subtitle = "Reading digests, posts other behind the scenes unpublished posts sorted by year."
+subtitle = "Honourable mentions and other behind the scenes unpublished posts sorted yearly."
 title = "Archives"
 [menu.main]
 weight = 6
