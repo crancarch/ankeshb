@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- content/archives.md
 - content/2019-s-ny-resolutions-as-an-inspiring-dev.md
 - content/resume.md
 - content/about.md
