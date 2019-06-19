@@ -13,6 +13,8 @@ This site is based on [JAMStack](https://jamstack.org/ "JAMStack") and was gener
 * Deployment : [Netlify](https://www.netlify.com/)
 * Hosting : [Github](https://github.com/)
 * Analytics : [Google Analytics](https://analytics.google.com)
+* Comment System : [Disqus](https://disqus.com/ "Disqus")
+
 
 # Running The Site Locally
 
