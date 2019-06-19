@@ -1,5 +1,4 @@
 +++
-draft = true
 img_path = ""
 layout = "page"
 subtitle = "@elalias' words. Published on 24 January at now deprecated https://ankeshb.home.blog/ ."
