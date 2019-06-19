@@ -12,4 +12,6 @@ weight = 6
 
 ### January
 
-##### 2019's NY Resolutions as an inspiring dev ...
+##### [2019's NY Resolutions as an inspiring web developer ...](https://codepen.io/shermisaurus/full/JQbomZ "2019's NY Resolutions as an inspiring web developer ...")
+
+@elalias' words published on 24 January at now deprecated WordPress weblog.
