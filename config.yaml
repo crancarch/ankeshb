@@ -8,7 +8,7 @@ params:
     title: Ankesh Bharti
     tagline: "@shermisaurus"
     profile_img: "/images/stand.jpeg"
-    bg: dark
+    bg: light
     has_nav: true
     has_social: true
   footer:
