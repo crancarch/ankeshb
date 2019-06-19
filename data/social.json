@@ -1,16 +1,6 @@
 {
   "links": [
     {
-      "title": "Reddit",
-      "icon": "fa-reddit",
-      "url": "https://www.reddit.com/user/ankeshb8"
-    },
-    {
-      "title": "Facebook",
-      "icon": "fa-facebook",
-      "url": "https://www.facebook.com/shermisaurus"
-    },
-    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
@@ -23,10 +13,20 @@
       "url": "https://github.com/shermisaurus"
     },
     {
+      "title": "Reddit",
+      "icon": "fa-reddit",
+      "url": "https://www.reddit.com/user/ankeshb8"
+    },
+    {
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/ankesh-bharti/"
+    },
+    {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/shermisaurus"
     }
   ]
 }
