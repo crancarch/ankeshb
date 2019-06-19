@@ -19,4 +19,7 @@ This site is based on [JAMstack](https://jamstack.org/ "JAMstack") and was gener
 * Analytics : [Google Analytics](https://analytics.google.com)
 * Comment System : [Disqus](https://disqus.com/ "Disqus")
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Weblog : <a href="https://t.co/rCGyJqc0b6">https://t.co/rCGyJqc0b6</a><br>Release : <a href="https://t.co/9HHAwGMEVH">https://t.co/9HHAwGMEVH</a><br><br>Thank you <a href="https://twitter.com/Netlify?ref_src=twsrc%5Etfw">@Netlify</a> , <a href="https://twitter.com/stackbithq?ref_src=twsrc%5Etfw">@stackbithq</a> for makign this possible 😇 <a href="https://t.co/3Lzw8DGDgY">pic.twitter.com/3Lzw8DGDgY</a></p>&mdash; Ankesh Bharti (@shermisaurus) <a href="https://twitter.com/shermisaurus/status/1141466897835106306?ref_src=twsrc%5Etfw">June 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 _Happy exploration!_
