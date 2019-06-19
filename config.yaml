@@ -12,7 +12,8 @@ params:
     has_nav: true
     has_social: true
   footer:
-    content: "&copy; Ankesh Bharti 2018-2019. All rights reserved. |"
+    content: '&copy; Ankesh Bharti 2018-2019. All rights reserved. | <a href="https://madewithlove.org.in"
+      target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a>'
     links:
     - text: "Made with \U0001F496 in India"
       url: https://madewithlove.org.in/
