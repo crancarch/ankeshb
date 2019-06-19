@@ -2,7 +2,7 @@
 
 # Ankesh Bharti's Weblog
 
-This site acts as personal blog space for me.
+This site acts as personal blog space for me and is parked at [https://ankeshb.netlify.com/](https://ankeshb.netlify.com/)
 
 # Stack
 
