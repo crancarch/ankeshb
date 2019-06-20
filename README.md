@@ -25,3 +25,6 @@ This site is based on [JAMstack](https://jamstack.org/ "JAMstack") and was gener
         hugo server -D
 
 1. Browse to [http://localhost:1313/](http://localhost:1313/)
+
+## Clone and deploy your own
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://https://github.com/shermisaurus/ankeshb)
