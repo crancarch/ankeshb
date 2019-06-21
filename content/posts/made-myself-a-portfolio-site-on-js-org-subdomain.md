@@ -21,6 +21,6 @@ On more deep scrolling through other developer's sites on Github I came to know 
 
 ![js.org](https://i.imgur.com/EXJKtU2.jpg "js.org homepage")
 
-Posted a tweet thanking work of Stefan Keim solely for responsible for js.org non-profit initiative, Cheers :)
+Posted a tweet thanking work of Stefan Keim who's solely responsible forthe  js.org non-profit initiative, Cheers :)
 
     The portfolio site's deployed on GitHub Pages plainly without any CI/CD and the theme's inspired by Peter Amende's portfolio site @https://peteramende.de/.
