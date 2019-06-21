@@ -17,8 +17,8 @@ sections:
   - label: Read More
     url: about.html
   component: content_block.html
-  content: My Name is Ankesh "shermisaurus" Bharti and I'm a junior undergrad student
-    living in Delhi-NCR, India.
+  content: I go by name _shermisaurus_ on the web and am a junior undergrad student
+    pursuing B.Tech in Information Technology at JIIT, Delhi-NCR, India.
   image: ''
 - type: postsblock
   template: postsblock
