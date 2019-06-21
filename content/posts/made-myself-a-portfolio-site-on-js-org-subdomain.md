@@ -1,6 +1,6 @@
 +++
 content_img_path = ""
-date = "2019-06-22T00:00:00+05:30"
+date = "2019-06-21T22:00:00+05:30"
 draft = true
 excerpt = "Getting a handsome free subdomain for personal projects from js.org"
 layout = "post"
@@ -21,6 +21,6 @@ On more deep scrolling through other developer's sites on Github I came to know 
 
 ![js.org](https://i.imgur.com/EXJKtU2.jpg "js.org homepage")
 
-Posted a tweet thanking work of Stefan Keim who's solely responsible forthe  js.org non-profit initiative, Cheers :)
+Posted a tweet thanking work of Stefan Keim who's solely responsible for the  js.org non-profit initiative, Cheers :)
 
     The portfolio site's deployed on GitHub Pages plainly without any CI/CD and the theme's inspired by Peter Amende's portfolio site @https://peteramende.de/.
