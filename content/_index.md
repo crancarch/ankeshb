@@ -11,15 +11,14 @@ sections:
   actions: []
 - type: contentblock
   template: contentblock
-  title: About TL;DR
+  title: About TLDR
   section_id: about
   actions:
   - label: Read More
     url: about.html
   component: content_block.html
-  content: A sophomore year engineering undergrad pursuing IT at Jaypee Institute
-    of Information Technology, Delhi-NCR, India. Loves and likes to share thoughts
-    on tech, open source, books, movies and TV-series.
+  content: '**Hi there.** My Name is Ankesh "shermisaurus" Bharti and I''m a junior
+    undergrad student living in Delhi-NCR, India.'
   image: ''
 - type: postsblock
   template: postsblock
