@@ -22,8 +22,7 @@ On more deep scrolling through other developer's sites on Github I came to know 
 
 Posted a tweet as well thanking work of Stefan Keim who's solely responsible for the  js.org non-profit initiative, Cheers :)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Made myself a portfolio site at <a href="https://t.co/mAzCsDmTZd">https://t.co/mAzCsDmTZd</a> with clean looking subdomain by <a href="https://twitter.com/JS_ORG?ref_src=twsrc%5Etfw">@JS_ORG</a> . Initiatives like these really helps students like me to grab ourselves a good online presence. <br>This is really, really cool ✨. Thanks 🙏 <a href="https://t.co/HnyGHXZoqO">pic.twitter.com/HnyGHXZoqO</a></p>&mdash; Ankesh Bharti (@shermisaurus) <a href="https://twitter.com/shermisaurus/status/1142115564308987905?ref_src=twsrc%5Etfw">June 21, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Made myself a portfolio site at <a href="https://t.co/mAzCsDmTZd">https://t.co/mAzCsDmTZd</a> with clean looking subdomain by <a href="https://twitter.com/JS_ORG?ref_src=twsrc%5Etfw">@JS_ORG</a> . Initiatives like these really helps students like me to grab ourselves a good online presence. <br>This is really, really cool ✨. Thanks 🙏 <a href="https://t.co/HnyGHXZoqO">pic.twitter.com/HnyGHXZoqO</a></p>— Ankesh Bharti (@shermisaurus) <a href="https://twitter.com/shermisaurus/status/1142115564308987905?ref_src=twsrc%5Etfw">June 21, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-    The portfolio site's deployed on GitHub Pages plainly without any CI/CD and the theme's inspired by Peter Amende's portfolio site @https://peteramende.de/.
+    The portfolio site's deployed on GitHub Pages plainly without any CI/CD and the css stylesheet's inspired by Peter Amende's portfolio site @https://peteramende.de/.
