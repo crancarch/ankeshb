@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = "2019-06-21T22:00:00+05:30"
-draft = true
 excerpt = "Getting a handsome free subdomain for personal projects from js.org"
 layout = "post"
 subtitle = "The portfolio is parked at <a href=\"http://shermisaurus.js.org/\">http://shermisaurus.js.org/</a> "
