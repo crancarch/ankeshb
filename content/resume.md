@@ -4,6 +4,7 @@ layout = "page"
 subtitle = "Ankesh Bharti's Resume"
 title = "Resume"
 [menu.main]
+name = "Résumé"
 weight = 4
 
 +++
