@@ -17,8 +17,8 @@ sections:
   - label: Read More
     url: about.html
   component: content_block.html
-  content: '**Hi there.** My Name is Ankesh "shermisaurus" Bharti and I''m a junior
-    undergrad student living in Delhi-NCR, India.'
+  content: My Name is Ankesh "shermisaurus" Bharti and I'm a junior undergrad student
+    living in Delhi-NCR, India.
   image: ''
 - type: postsblock
   template: postsblock
