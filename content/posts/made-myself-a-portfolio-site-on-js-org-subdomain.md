@@ -5,7 +5,7 @@ excerpt = "Getting a handsome free subdomain for personal projects from js.org"
 layout = "post"
 subtitle = "The portfolio is parked at <a href=\"http://shermisaurus.js.org/\">http://shermisaurus.js.org/</a> "
 thumb_img_path = ""
-title = "Made myself a portfolio site on free js.org subdomain"
+title = "Made myself a portfolio site for free on js.org subdomain"
 
 +++
 ![shermisaurus's portfolio site](https://i.imgur.com/ETReO3x.png "Portfolio site preview")
