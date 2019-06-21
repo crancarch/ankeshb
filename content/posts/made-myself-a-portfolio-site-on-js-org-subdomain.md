@@ -4,7 +4,7 @@ date = "2019-06-22T00:00:00+05:30"
 draft = true
 excerpt = "Getting a handsome free subdomain for personal projects from js.org"
 layout = "post"
-subtitle = "The portfolio is parked at shermisaurus.js.org"
+subtitle = "The portfolio is parked at <a href=\"http://shermisaurus.js.org/\">http://shermisaurus.js.org/</a> "
 thumb_img_path = "/images/dark_horz.png"
 title = "Made myself a portfolio site on js.org subdomain"
 
