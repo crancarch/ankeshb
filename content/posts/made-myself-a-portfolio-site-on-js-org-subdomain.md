@@ -9,7 +9,7 @@ thumb_img_path = "/images/dark_horz.png"
 title = "Made myself a portfolio site on js.org subdomain"
 
 +++
-![shermisaurus's portfolio site](https://i.imgur.com/rNM9IDY.png "Portfolio site preview")
+![shermisaurus's portfolio site](https://i.imgur.com/ETReO3x.png "Portfolio site preview")
 
 Long story told short, I was on a hunt for getting a free or cheap domain for a portfolio site that I could display on resume/sites as a part of personal branding that would look professional. Being a student doesn't goes with buying domains from your standard _GoDaddies_ given the renewal prices skyrocket to **$$$**.
 
