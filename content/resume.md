@@ -5,4 +5,4 @@ subtitle = "Ankesh Bharti's Resume"
 title = "Resume"
 
 +++
-<a href="/web/viewer.html?file=%2Fhttps://github.com/shermisaurus/ankeshb/raw/master/content/ankesh-bharti-resume-2019-06.pdf">Open yourpdf.pdf with PDF.js</a>
+<a href="https://raw.githubusercontent.com/shermisaurus/ankeshb/master/web/viewer.html?file=%2Fhttps://raw.githubusercontent.com/shermisaurus/ankeshb/master/content/ankesh-bharti-resume-2019-06.pdf">Open yourpdf.pdf with PDF.js</a>
