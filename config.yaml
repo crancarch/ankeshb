@@ -22,5 +22,5 @@ disqusShortname: ankeshb
 menu:
   main:
   - url: https://raw.githubusercontent.com/shermisaurus/ankeshb/master/pdfjs.html
-    name: Résumé
+    name: Résume
     weight: 4
