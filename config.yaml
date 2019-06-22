@@ -19,8 +19,3 @@ params:
 disableKinds:
 - RSS
 disqusShortname: ankeshb
-menu:
-  main:
-  - url: https://raw.githubusercontent.com/shermisaurus/ankeshb/master/pdfjs.html
-    name: Résumé
-    weight: 4
