@@ -9,7 +9,7 @@ params:
     tagline: "@shermisaurus"
     profile_img: "/images/stand.jpeg"
     bg: light
-    has_nav: true
+    has_nav: false
     has_social: true
   footer:
     content: '&copy; Ankesh Bharti 2018-2019. All rights reserved. | <a href="https://madewithlove.org.in"
@@ -21,6 +21,6 @@ disableKinds:
 disqusShortname: ankeshb
 menu:
   main:
-  - url: https://ankeshb.netlify.com/images/ankesh-bharti-resume-2019-06.pdf
+  - url: https://raw.githubusercontent.com/shermisaurus/ankeshb/master/content/ankesh-bharti-resume-2019-06.pdf
     name: Résumé
     weight: 4
