@@ -19,3 +19,8 @@ params:
 disableKinds:
 - RSS
 disqusShortname: ankeshb
+menu:
+  main:
+  - url: https://ankeshb.netlify.com/images/ankesh-bharti-resume-2019-06.pdf
+    name: Résumé
+    weight: 4
