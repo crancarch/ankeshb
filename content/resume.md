@@ -20,7 +20,7 @@ weight = 4
 </head>
 
 <body>
-    <a href="/web/viewer.html?file=%2Fankesh-bharti-resume-2019-06.pdf">ankesh-bharti-resume-2019-06</a>
+    <a href="https://raw.githubusercontent.com/shermisaurus/ankeshb/master/web/viewer.html?file=%2Fankesh-bharti-resume-2019-06.pdf">ankesh-bharti-resume-2019-06</a>
 
 
 </body>
