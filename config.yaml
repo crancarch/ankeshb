@@ -3,12 +3,12 @@ title: Ankesh Bharti's Weblog
 baseURL: "/"
 params:
   layout_style: overflow
-  palette: violet
+  palette: blue
   header:
     title: Ankesh Bharti
     tagline: "@shermisaurus"
     profile_img: "/images/stand.jpeg"
-    bg: dark
+    bg: light
     has_nav: true
     has_social: true
   footer:
