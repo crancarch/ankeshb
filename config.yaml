@@ -8,8 +8,8 @@ params:
     title: Ankesh Bharti
     tagline: "@shermisaurus"
     profile_img: "/images/stand.jpeg"
-    bg: light
-    has_nav: false
+    bg: dark
+    has_nav: true
     has_social: true
   footer:
     content: '&copy; Ankesh Bharti 2018-2019. All rights reserved. | <a href="https://madewithlove.org.in"
