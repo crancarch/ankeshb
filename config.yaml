@@ -2,7 +2,7 @@
 title: Ankesh Bharti's Weblog
 baseURL: "/"
 params:
-  layout_style: overflow
+  layout_style: default
   palette: blue
   header:
     title: Ankesh Bharti
