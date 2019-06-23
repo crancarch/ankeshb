@@ -2,11 +2,11 @@
 content_img_path = ""
 date = "2019-06-23T23:00:00+05:30"
 draft = true
-excerpt = "Implementing PDF.js in site to render and parse pdf's as html so that UX is optimised for viewing PDFs."
+excerpt = "Implementing PDF.js in site to render and parse pdf's as html to optimise UX for viewing PDF's."
 layout = "post"
 subtitle = "Implementing PDF.js in site to render and parse pdf's as html"
 thumb_img_path = ""
-title = "Using PDF.js in Hugo"
+title = "Using PDF.js to parse PDF's in Hugo"
 
 +++
 I was faced by the issue of whether how to display resume's pdf from sidebar menu to an end user 2 days from now. As the first solution I implemented it the old school way by uploading the pdf and linking it through `href`  tag.
