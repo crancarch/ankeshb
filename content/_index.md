@@ -5,8 +5,8 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: Stories and rants on my journeys, covering, but not limited to, Linux,
-    FOSS and web-technologies.
+  content: Stories / rants on my journeys, covering, but not limited to, Linux, open
+    source and web-technologies.
   title: Ankesh Bharti's Weblog
   actions: []
 - type: postsblock
