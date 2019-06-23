@@ -21,6 +21,6 @@ disableKinds:
 disqusShortname: ankeshb
 menu:
   main:
-  - url: https://raw.githubusercontent.com/shermisaurus/ankeshb/master/content/ankesh-bharti-resume-2019-06.pdf
+  - url: https://ankeshb.netlify.com/images/ankesh-bharti-resume-2019-06.pdf
     name: Résumé
     weight: 4
