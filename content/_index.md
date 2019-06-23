@@ -17,7 +17,7 @@ sections:
   - label: View Blog
     url: blog/index.html
   component: posts_block.html
-  num_posts_displayed: 4
+  num_posts_displayed: '2'
 - type: contentblock
   template: contentblock
   title: About TLDR
