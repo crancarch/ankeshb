@@ -7,7 +7,7 @@ sections:
   component: hero_block.html
   content: Stories and rants on my journeys, covering, but not limited to, Linux,
     FOSS and web-technologies.
-  title: "@shermisaurus Weblog"
+  title: Ankesh Bharti's Weblog
   actions: []
 - type: postsblock
   template: postsblock
