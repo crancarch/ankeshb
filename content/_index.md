@@ -5,9 +5,9 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: This Weblog covers stories on my journeys, including, but not limited to,
-    Linux, FOSS and web-technologies.
-  title: Hi, I'm Ankesh Bharti
+  content: Stories and rants on my journeys, covering, but not limited to, Linux,
+    FOSS and web-technologies.
+  title: "@shermisaurus Weblog"
   actions: []
 - type: postsblock
   template: postsblock
