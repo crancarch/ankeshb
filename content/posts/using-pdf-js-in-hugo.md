@@ -16,7 +16,7 @@ I found a library named [pdf.js by mozilla](https://mozilla.github.io/pdf.js/) w
 
 On research I finally got a solution working : cloning the bare minimum required assets to project root's location. Though it isn't considered as best of practises, it just worked. You can find how it'd work out on the issues page linked.
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/shermisaurus/ankeshb/issues/2">Add PDF.js support to open pdf links parsed as HTML in desktop browsers. · Issue #2 · shermisaurus/ankeshb</a></h4><p>PDF.js hasn't proper starter guide to get things going on one click and proper explanation for the project. Issue : The pdf doesn't gets rendered through the viewe.html file located in build directory of PDF.js. Solution : Implementation...</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/shermisaurus/ankeshb/issues/2">Add PDF.js support to open pdf links parsed as HTML in desktop browsers. · Issue #2 · shermisaurus/ankeshb</a></h4><p>PDF.js hasn't a proper starter guide to get things going on an instant or a proper beginner friendly guide to go through. Issue : The pdf doesn't gets rendered through the viewer.html file located in build directory of PDF.js. Solution : Implementation</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Gotta try to use npm and a build tool to properly use library as it's recommended by the official pdf.js docs before it's late. Made an issue on the repo.
