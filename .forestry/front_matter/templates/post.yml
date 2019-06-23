@@ -37,5 +37,6 @@ fields:
   config:
     required: true
 pages:
+- content/posts/using-pdf-js-in-hugo.md
 - content/posts/made-myself-a-portfolio-site-on-js-org-subdomain.md
 - content/posts/site-s-source.md
