@@ -20,6 +20,9 @@ On research I finally got a solution working : cloning the bare minimum required
 <blockquote class="embedly-card"><h4><a href="https://github.com/shermisaurus/ankeshb/issues/2">Add PDF.js support to open pdf links parsed as HTML in desktop browsers. · Issue #2 · shermisaurus/ankeshb</a></h4><p>PDF.js hasn't proper starter guide to get things going on one click and proper explanation for the project. Issue : The pdf doesn't gets rendered through the viewe.html file located in build directory of PDF.js. Solution : Implementation...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Gotta try to use npm and a build tool to properly use library as it's recommended by the official pdf.js docs before it's late. Made it an
+Gotta try to use npm and a build tool to properly use library as it's recommended by the official pdf.js docs before it's late. Made an issue on the repo.
+
+<blockquote class="embedly-card"><h4><a href="https://github.com/shermisaurus/ankeshb/issues/4">Implement pdf.js library with npm and build tools · Issue #4 · shermisaurus/ankeshb</a></h4><p>Follow hugo's forum discourse link to get the context. best-way-to-include-javascript-libraries-in-hugo-sites</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
  I personally like following good practises as recognized by the community and believe they are one of good traits to follow being an open sourcer.
