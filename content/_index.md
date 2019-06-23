@@ -27,7 +27,7 @@ sections:
     url: about.html
   component: content_block.html
   content: I go by name _shermisaurus_ on the web and am a junior undergrad student
-    pursuing B.Tech in Information Technology at JIIT, Delhi-NCR, India.
+    pursuing bachelors in IT at JIIT, Delhi-NCR, India.
   image: ''
 layout: home
 menu:
